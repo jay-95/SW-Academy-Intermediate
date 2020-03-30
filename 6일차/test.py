@@ -1,0 +1,1 @@
+print("%d% charged" % 100)
